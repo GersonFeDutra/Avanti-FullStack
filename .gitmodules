@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = git@github.com:GersonFeDutra/Avanti-BackEnd.git
+[submodule "front"]
+	path = front
+	url = git@github.com:GersonFeDutra/Avanti-FrontEnd.git
